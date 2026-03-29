@@ -6,15 +6,12 @@ Cargo.lock
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
 .DS_Store
 
 # Environment
-.env
-.env.local
 .env.*.local
 
 # Database
@@ -80,3 +77,7 @@ GITHUB_ISSUES.md
 issue.md
 commit.md
 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
